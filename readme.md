@@ -1,1 +1,1 @@
-## Boilerplate bundle of Lumen microservice with Reactks
+## Boilerplate bundle of Lumen microservice with Reactjs
